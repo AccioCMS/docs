@@ -1,0 +1,28 @@
+# Migrations
+
+## Introduction
+Migrations are like version control for your database, allowing your team to easily modify and share the application's database schema.
+Migrations are typically paired with Laravel's schema builder to easily build your application's database schema.
+If you have ever had to tell a teammate to manually add a column to their local database schema, you've faced the problem that database migrations solve.
+
+By default, Accio provides your the basic tables you need to run your next project.
+
+## Default Migrations
+@todo, keto me i lidh me dokumentim te kodit (sami)
+
+- Users
+- Passwords Resets
+- Settings
+- Categories
+- Media
+- CustomFIelds
+- PostTypes
+- Language
+- Menu
+- MenuLinks
+- Permalinks
+- Plugins
+- Tags
+- Role Relations
+- Activity Log
+- Foreign Keys

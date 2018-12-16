@@ -33,7 +33,7 @@ Pse, qysh krijohet nje them ei ri (komanda), me çfare sene vjen new theme by de
 ## Changing theme
 Qysh nderrohet theme dhe çka duhet me pas parasysh para se e u nderru theme-i. Qysh aktivizohet theme.
 
-## Config
+## Configuration of theme
 Perçka sherben config.json ne kuader te theme, çfare options ka (nje liste me opcione dhe arsye pse egziston bashk me nje shembull) dhe qysh me i perdor aty
 
 
