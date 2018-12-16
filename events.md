@@ -32,15 +32,15 @@ Applied to Accio' service provider after all its dependencies are booted,
 
 Applied to Accio' service provider after all theme and plugins are registered
 
-# Authentication
-# Custom Fields
-# Post Type
-# Language
-# Post
-# User
-# MenuLink
-# Menu
-# Tag
-# Theme
-# Media
-# Category
+## Authentication
+## Custom Fields
+## Post Type
+## Language
+## Post
+## User
+## MenuLink
+## Menu
+## Tag
+## Theme
+## Media
+## Category

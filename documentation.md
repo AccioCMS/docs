@@ -1,0 +1,36 @@
+- ## Getting Started
+  - [Installation]({{url}}/docs/{{version}}/installation)
+  - [Configuration]({{url}}/docs/{{version}}/configuration)
+  - [Structure]({{url}}/docs/{{version}}/structure)
+  - [Deployment]({{url}}/docs/{{version}}/deployment)
+- ## The Basics
+  - [Controllers]({{url}}/docs/{{version}}/controllers)
+  - [Middleware]({{url}}/docs/{{version}}/middleware)
+  - [Models]({{url}}/docs/{{version}}/models)
+  - [URLs]({{url}}/docs/{{version}}/urls)
+- ## Frontend
+  - [Themes]({{url}}/docs/{{version}}/themes)
+  - [Localisation]({{url}}/docs/{{version}}/localisation)
+  - [Views]({{url}}/docs/{{version}}/views)
+- ## Getting Deeper
+  - [Artisan]({{url}}/docs/{{version}}/artisan)
+  - [Cache]({{url}}/docs/{{version}}/cache)
+  - [Events]({{url}}/docs/{{version}}/events)
+  - [Helpers]({{url}}/docs/{{version}}/helpers)
+  - [Services]({{url}}/docs/{{version}}/services)
+  - [Traits]({{url}}/docs/{{version}}/traits)
+- ## Database
+  - [Factories]({{url}}/docs/{{version}}/factories)
+  - [Migrations]({{url}}/docs/{{version}}/migrations)
+  - [Seeds]({{url}}/docs/{{version}}/seeds)
+- ## Apps
+  - [Categories]({{url}}/docs/{{version}}/apps/categories)
+  - [Languages]({{url}}/docs/{{version}}/apps/languages)
+  - [Media]({{url}}/docs/{{version}}/apps/media)
+  - [Permissions]({{url}}/docs/{{version}}/apps/permissions)
+  - [Plugins]({{url}}/docs/{{version}}/apps/plugins)
+  - [Post Types]({{url}}/docs/{{version}}/apps/post_types)
+  - [Posts]({{url}}/docs/{{version}}/apps/posts)
+  - [Settings]({{url}}/docs/{{version}}/apps/settings)
+  - [Tags]({{url}}/docs/{{version}}/apps/tags)
+  - [Users]({{url}}/docs/{{version}}/apps/users)
