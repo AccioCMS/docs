@@ -190,6 +190,8 @@ The absolute path where you want your database to be dumped.
 
 Default: `{your project directory}/storage/app/dumper/`
 
+You can configure your
+
 ### Requirements
 For dumping MySQL-db's `mysqldump` should be installed.
 
@@ -273,7 +275,7 @@ Running this, will set you full permissions to the following directories:
 > {note} This command works on local environment only.
 
 ## Backup
-Accio uses [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) to provide out-of-the-box backup functionality.
+Accio uses the [`spatie/laravel-backup`](https://github.com/spatie/laravel-backup) package to provide out-of-the-box backup functionality.
 
 On your `config/backup.php` , you can configure which files and databases will be backed up, where and how.
 
@@ -283,7 +285,7 @@ php artisan backup:run
 ````
 
 The specified databases will be dumped and, together with the selected files, zipped.
-The zip file will be named<specified name in configuration>/<Y-m-d-H-i-s>.zip.
+The zip file will be named:{specified name in configuration}/{Y-m-d-H-i-s}.zip.
 
 The more files you need to backup, the bigger the zip will become. Make sure there's enough free space on your disk to create the zip file. After the source zip file has been copied to all destinations, it will be deleted.
 
